@@ -1,1 +1,2 @@
 SELECT * FROM t_contract
+SELECT * FROM t_deiscus
